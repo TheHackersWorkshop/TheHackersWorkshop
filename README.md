@@ -17,12 +17,11 @@ My work is focused on **practical results**, delivering solutions that just work
 
 - [Watcher](https://github.com/TheHackersWorkshop/Watcher.py) – High-signal Linux security monitoring, adaptable to any environment
 - [Quick Linux Tools](https://github.com/TheHackersWorkshop/quick-and-simple_Linux-tools) – Scripts that automate repetitive Linux tasks
-- [ESP32 Projects](https://github.com/TheHackersWorkshop/lvurbangames) – Proof-of-concept and prototype embedded devices
 - [Computer Brain & 8-bit Projects](https://github.com/TheHackersWorkshop/computer-brain) – Retro computing, educational PCBs, and TTL logic projects
 - [lvurbangames](https://github.com/TheHackersWorkshop/lvurbangames) – Real-world scavenger hunt Android app using ESP32 beacons
 - [Illustrated Book Workflow](https://github.com/TheHackersWorkshop/illustrated-book-blueprint) – Creative automation and publishing workflows
 
-## How I Can Help
+## Can I Help?
 
 I take on **fixed-scope projects** and deliver complete, functional solutions. Examples include:
 
