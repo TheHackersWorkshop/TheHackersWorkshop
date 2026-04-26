@@ -17,7 +17,7 @@ I hold a **U.S. Patent**, for hardware-based security systems and specialize in 
 
 - [Watcher](https://github.com/TheHackersWorkshop/Watcher.py) – High-signal Linux security monitoring, adaptable to any environment
 - [Quick Linux Tools](https://github.com/TheHackersWorkshop/quick-and-simple_Linux-tools) – Scripts that automate repetitive Linux tasks
-- [Computer Brain & 8-bit Projects](https://github.com/TheHackersWorkshop/computer-brain) – Retro computing, educational PCBs, and TTL logic projects
+- [Computer Brain & 8-bit Projects](https://github.com/TheHackersWorkshop/computer-brain) – Foundational TTL logic and PCB design projects for hardware education
 - [lvurbangames](https://github.com/TheHackersWorkshop/lvurbangames) – A real-world hardware integration project utilizing Kotlin for Android and C++ for ESP32 beacon firmware
 - [Windows Admin Command Center](https://github.com/TheHackersWorkshop/Windows-Admin-Command) – Audit-grade PowerShell CLI for safe, logged Active Directory management
 
@@ -29,7 +29,7 @@ I take on and **deliver, completed, functional solutions**. Examples include:
 - Linux automation and monitoring tools
 - Software development across multiple languages (Python, C++, Kotlin, Bash)
 - Educational or creative technology projects
-- Enterprise Hardware Recovery. Specialized in board-level repair for Dell PowerEdge and similar infrastructure; proficient in BGA component soldering and hot-air rework to restore "bricked" systems.
+- Enterprise Hardware Recovery. Specialized in board-level repair for Dell PowerEdge and similar infrastructure; proficient in BGA component soldering and hot-air rework to restore "bricked" systems
 
 If you need a versatile problem solver who can **design, code, build, and deliver** solutions across hardware, software, and creative workflows, I can help.
 
