@@ -2,15 +2,15 @@
 
 # I'm David
 
-I solve complex technical problems quickly and reliably, across a wide range of disciplines: from **embedded hardware and microcontrollers** to **Python, C++, and Kotlin programming**, from **TTL logic and PCB design** to system automation and security monitoring. I even bring creativity to technical projects, including **illustrated workflows and educational tools**.
+I am a **Systems Engineer and Hardware Architect** with over 30 years of experience bridging the gap between low-level hardware and high-level automation. From **BGA component-level repair and TTL logic**, to **enterprise Linux security and Windows Active Directory automation** I build infrastructure that is secure, audited, and resilient..
 
-My work is focused on **practical results**, delivering solutions that just work, whether it's a small Linux automation script, a proof-of-concept embedded device, or a custom software tool. I specialize in taking an idea or pain point and turning it into a **robust, functional solution** fast.
+I hold a **U.S. Patent**, for hardware-based security systems and specialize in high-stakes troubleshooting, whether it's reviving "bricked" enterprise servers or developing real-time system integrity monitors using Python and Bash.
 
 ## My Capabilities
 
 - **Embedded Systems & Hardware**: ESP32, ATTiny, LED matrices, custom PCB design, TTL logic circuits
 - **Programming & Scripting**: Python, C++, Kotlin, Bash, Shell scripting
-- **Linux & Automation**: System monitoring, file integrity, network and security tools, automation scripts
+- **Linux/Windows Automation**: System monitoring, file integrity, network and security tools, automation scripts
 - **Creative & Technical Projects**: Educational kits, workflow tools, text and mobile games, illustrative guides
 
 ## Featured Repositories
@@ -19,16 +19,17 @@ My work is focused on **practical results**, delivering solutions that just work
 - [Quick Linux Tools](https://github.com/TheHackersWorkshop/quick-and-simple_Linux-tools) – Scripts that automate repetitive Linux tasks
 - [Computer Brain & 8-bit Projects](https://github.com/TheHackersWorkshop/computer-brain) – Retro computing, educational PCBs, and TTL logic projects
 - [lvurbangames](https://github.com/TheHackersWorkshop/lvurbangames) – Real-world scavenger hunt Android app using ESP32 beacons
-- [Illustrated Book Workflow](https://github.com/TheHackersWorkshop/illustrated-book-blueprint) – Creative automation and publishing workflows
+- [Windows Admin Command Center](https://github.com/TheHackersWorkshop/Windows-Admin-Command) – Audit-grade PowerShell CLI for safe, logged Active Directory management.
 
 ## Can I Help?
 
-I take on **fixed-scope projects** and deliver complete, functional solutions. Examples include:
+I take on and **deliver, completed, functional solutions**. Examples include:
 
 - Custom embedded hardware prototypes and ESP32 solutions
 - Linux automation and monitoring tools
 - Software development across multiple languages (Python, C++, Kotlin, Bash)
 - Educational or creative technology projects
+- Enterprise Hardware Recovery. Specialized in board-level repair for Dell PowerEdge and similar infrastructure; proficient in BGA component soldering and hot-air rework to restore "bricked" systems.
 
 If you need a versatile problem solver who can **design, code, build, and deliver** solutions across hardware, software, and creative workflows, I can help.
 
