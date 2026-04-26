@@ -18,10 +18,10 @@ I hold a **U.S. Patent**, for hardware-based security systems and specialize in 
 - [Watcher](https://github.com/TheHackersWorkshop/Watcher.py) – High-signal Linux security monitoring, adaptable to any environment
 - [Quick Linux Tools](https://github.com/TheHackersWorkshop/quick-and-simple_Linux-tools) – Scripts that automate repetitive Linux tasks
 - [Computer Brain & 8-bit Projects](https://github.com/TheHackersWorkshop/computer-brain) – Retro computing, educational PCBs, and TTL logic projects
-- [lvurbangames](https://github.com/TheHackersWorkshop/lvurbangames) – Real-world scavenger hunt Android app using ESP32 beacons
-- [Windows Admin Command Center](https://github.com/TheHackersWorkshop/Windows-Admin-Command) – Audit-grade PowerShell CLI for safe, logged Active Directory management.
+- [lvurbangames](https://github.com/TheHackersWorkshop/lvurbangames) – A real-world hardware integration project utilizing Kotlin for Android and C++ for ESP32 beacon firmware
+- [Windows Admin Command Center](https://github.com/TheHackersWorkshop/Windows-Admin-Command) – Audit-grade PowerShell CLI for safe, logged Active Directory management
 
-## Can I Help?
+## How Can I Help?
 
 I take on and **deliver, completed, functional solutions**. Examples include:
 
